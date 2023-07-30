@@ -1,0 +1,90 @@
+ body{
+    background-image: url(background.jpg);
+	background-size: cover;
+	background-position: center;
+    background-repeat: no-repeat;
+	min-height: 100vh;
+    line-height: 5px;
+}
+
+
+.container{
+    background-color: black;
+    background-color:  rgba(0, 0, 0, 0.6);
+    width: 1200px;
+    height: 800px;
+    border-radius: 20px;
+    margin: auto;
+}
+
+.titolo{
+    text-align: center;
+    color: lime;
+    font-size:xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo{
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 80px;
+    width: 275px ;
+    height: 125px;
+}
+
+.bottoni{
+    background-color: lime;
+    text-align: center;
+    height: 45px;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+.dati{
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+.button{
+    margin-top: 13px;
+}
+
+.row-up{
+    margin-top: 30px;
+    text-align: left;
+}
+
+.nome{
+    font-size: larger;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.row-under{
+    text-align: left;
+    font-size:medium;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.orange{
+    color: orange;
+	background-color:orange;
+	border-radius:5px;
+	height:30px;
+	width:350px;
+}
+.green{
+	color:green;
+	background-color:green;
+	border-radius:5px;
+	height:30px;
+	width:600px;
+}
+.red{
+	color: red;
+	background-color: red;
+	border-radius:5px;
+	height:30px;
+	width: 150px;
+}
